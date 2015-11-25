@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+=============
+
+Hi Humans!
+
+Parthad here, I like Bootstrap and AngularJS.
